@@ -3,9 +3,9 @@
 /* more headers goes here */
 #include <stdio.h>
 /**
- * main - program that prints the status of the last digit number
+ *main - program that prints the status of the last digit number
  *
- * Return: return 0
+ *Return: return 0
  */
 int main(void)
 {
@@ -23,7 +23,7 @@ int main(void)
 	{
 		printf("Last digit of %d is %d and is 0\n", n, lastNumber);
 	}
-	else
+	else if (lastNumber < 6)
 	{
 		printf("Last digit of %d is %d and is less than 6 and not 0\n", n, lastNumber);
 		printf("\n");
