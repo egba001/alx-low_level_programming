@@ -8,8 +8,7 @@
  */
 int main(void)
 {
-	int c, b;
-	
+	char c, b;
 	for (c = 'a'; c <= 'z'; c++)
 	{
 		putchar(c);
