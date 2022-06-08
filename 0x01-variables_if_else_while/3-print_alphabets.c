@@ -8,6 +8,7 @@
  */
 int main(void)
 {
+	int c, b;
 	for (c = 'a'; c <= 'z'; c++)
 	{
 		putchar(c);
@@ -16,6 +17,6 @@ int main(void)
 	{
 		putchar(b);
 	}
-	printf('\n');
+	putchar('\n');
 	return (0);
 }
