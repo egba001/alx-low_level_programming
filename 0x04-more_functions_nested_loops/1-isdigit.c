@@ -1,5 +1,5 @@
 #include "main.h"
-#Include <
+#Include <ctype.h>
 
 /**
  * mul - function that checks a digit
