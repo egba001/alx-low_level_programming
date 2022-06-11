@@ -2,7 +2,7 @@
 #Include <ctype.h>
 
 /**
- * mul - function that checks a digit
+ * _isdigit - function that checks a digit
  *
  * @c: return int type
  *
