@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
- *print_diagonal - prints a line n chars long.
- *@n: number of \.
+ * print_diagonal - prints a line n chars long.
+ * @n: number of \.
  *
- *Return: void.
+ * Return: void.
  */
  
 void print_diagonal(int n)
