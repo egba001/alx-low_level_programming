@@ -12,13 +12,13 @@ void puts_half(char *s)
 
 	while (*(s + len) != '\0')
 	{
-		len++
+		len++;
 	}
 	len = len / 2;
 
 	while (*(s + len) != '\0')
 	{
-		s++
+		s++;
 	}
 	printf("%s", s);
 	printf("\n");
