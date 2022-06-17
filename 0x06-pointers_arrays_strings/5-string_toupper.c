@@ -7,7 +7,7 @@
  * Return: an uppercase string
  */
 
-Return: an uppercase string
+char *string_toupper(char *s)
 {
 	int i = 0;
 
