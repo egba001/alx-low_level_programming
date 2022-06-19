@@ -15,7 +15,7 @@ int separator(char c)
 		case '\t':
 		case '\n':
 		case ',':
-		case ',':
+		case ';':
 		case '.':
 		case '!':
 		case '?':
