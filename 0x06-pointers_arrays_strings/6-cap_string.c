@@ -40,7 +40,6 @@ char *cap_string(char *s)
 	int count, upper;
 
 	upper = -32; /*value constant 32*/
-
 	count = 0;
 	/*Start WHILE*/
 	while (s[count] != '\0')
