@@ -49,7 +49,6 @@ char *cap_string(char *s)
 		{
 			/*Convert uppercase*/
 			if (s[count] == *s || separator(s[count - 1]))
-
 				s[count] += upper;
 		}
 		count++; /*Add count*/
