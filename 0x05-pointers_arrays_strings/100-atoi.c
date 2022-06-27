@@ -11,12 +11,11 @@ int _atoi(char *s)
 {
 	int i, j, k, len, m, tmp;
 
-
 	i = 0;
 	j = 0;
 	k = 0;
 	len = 0;
-	m = 0;;
+	m = 0;
 	tmp = 0;
 
 	while (s[len] != '\0')
