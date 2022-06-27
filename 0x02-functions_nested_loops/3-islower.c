@@ -9,7 +9,7 @@
  * Return: return 0 on success and 1 on fail
  */
 
-int slower(int c)
+int _islower(int c)
 {
 	int i = islower(c);
 
