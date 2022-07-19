@@ -1,1 +1,1 @@
-readme for debugging a program
+  This repository conatains solutions to C programming tasks in ALX-holberton School 
